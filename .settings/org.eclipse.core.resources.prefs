@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/kma/cs/utils/MysqlUtils.java=UTF-8
+encoding//src/com/kma/cs/utils/pdf/PDFSigner.java=UTF-8
+encoding//src/com/kma/cs/view/CipherService.java=UTF-8
+encoding//src/com/kma/cs/view/DangKy.java=UTF-8
+encoding//src/com/kma/cs/view/DangNhap.java=UTF-8
+encoding//src/com/kma/cs/view/GenerateKey.java=UTF-8
+encoding//src/com/kma/cs/view/SignatureService.java=UTF-8
